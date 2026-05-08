@@ -1,6 +1,6 @@
 ## GPT-2 LoRA Conversational Fine-Tuning
 
-A beginner-friendly conversational AI project demonstrating parameter-efficient fine-tuning of GPT-2 using LoRA adapters and the Hugging Face ecosystem.
+A conversational AI project demonstrating parameter-efficient fine-tuning of GPT-2 using LoRA adapters and the Hugging Face ecosystem.
 
 ### This project explores:
 
